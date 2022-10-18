@@ -3,10 +3,10 @@
 
 
 Network Working Group                                           J. Kunze
-Internet-Draft                                California Digital Library
+Internet-Draft                                           Ronin Institute
 Intended status: Informational                                 E. Bermès
-Expires: 20 April 2023                  Bibliothèque nationale de France
-                                                         17 October 2022
+Expires: 21 April 2023                       École nationale des Chartes
+                                                         18 October 2022
 
 
                        The ARK Identifier Scheme
@@ -64,7 +64,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 20 April 2023.
+   This Internet-Draft will expire on 21 April 2023.
 
 Copyright Notice
 
@@ -1880,7 +1880,7 @@ Table of Contents
 
    [NAANregistry]
               ARKs.org, "NAAN Registry", 2019,
-              <https://arks.org/e/pub/naan_registry.txt>.
+              <https://n2t.net/e/pub/naan_registry.txt>.
 
    [NAANrequest]
               ARKs.org, "NAAN Request Form", 2018,
@@ -2090,16 +2090,14 @@ Appendix B.  Looking up NMAs Distributed via DNS
 Authors' Addresses
 
    John A. Kunze
-   California Digital Library
-   1111 Franklin Street
-   Oakland, CA 94607
+   Ronin Institute
    United States of America
    Email: jakkbl@gmail.com
 
 
    Emmanuelle Bermès
-   Bibliothèque nationale de France
-   Quai François Mauriac
-   75706 Paris
+   École nationale des Chartes
+   65 Rue de Richelieu
+   75002 Paris
    France
-   Email: emmanuelle.bermes@bnf.fr
+   Email: emmanuelle.bermes@chartes.psl.eu
