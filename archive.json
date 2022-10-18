@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2022-10-16T01:46:36.756848+00:00",
+  "timestamp": "2022-10-18T01:45:17.639907+00:00",
   "repo": "arks-org/arkspec",
   "labels": [
     {
@@ -92,24 +92,26 @@
       "id": "PR_kwDOGnqRK85AqACT",
       "title": "Md migrate",
       "url": "https://github.com/arks-org/arkspec/pull/2",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "datadavev",
-      "authorAssociation": "NONE",
+      "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "Conversion of the xml source to markdown. Content is unchanged though requires some review before publishing. In particular:\r\n\r\n- [ ] Review references and distinguish informative vs. normative\r\n- [ ] Ensure internal cross-references are ok",
       "createdAt": "2022-10-12T14:03:51Z",
-      "updatedAt": "2022-10-12T14:03:52Z",
+      "updatedAt": "2022-10-17T18:30:25Z",
       "baseRepository": "arks-org/arkspec",
       "baseRefName": "main",
       "baseRefOid": "571913594538081b84cfb36df075c2483b8bc532",
       "headRepository": "datadavev/arkspec",
       "headRefName": "md-migrate",
-      "headRefOid": "f5b5f9a27537ca4f78ccccefdef35921dd6e04ef",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "headRefOid": "6772d3f67ce35d219f4c82cf291ba21153b177f3",
+      "closedAt": "2022-10-17T18:30:25Z",
+      "mergedAt": "2022-10-17T18:30:25Z",
+      "mergedBy": "jkunze",
+      "mergeCommit": {
+        "oid": "e462b6dfb605ac2a261f1c0a5d68fa90208457b4"
+      },
       "comments": [],
       "reviews": []
     }
